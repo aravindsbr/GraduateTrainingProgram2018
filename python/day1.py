@@ -97,9 +97,9 @@ for i in pw:
 		s_flag+=1
 		
 if((l_flag>=1) and (u_flag>=1) and (n_flag>=1) and (s_flag)):
-	print("Valid password")
+	print("Password is strong")
 else:
-	print("Invalid password")
+	print("Password is weak")
 """
 
 """
