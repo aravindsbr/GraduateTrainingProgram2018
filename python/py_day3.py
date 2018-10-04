@@ -1,5 +1,4 @@
 """
-1)
 s1=raw_input("Enter string")
 l1=s1.split(" ")
 s2="".join(l1)
